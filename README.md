@@ -25,7 +25,7 @@
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
     </td>
     <td>
-      <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Priyanshuosdbms" />
+      <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Priyanshu_OS7" />
     </td>
   </tr>
   <tr>

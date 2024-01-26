@@ -30,7 +30,9 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyanshuosdbms&theme=github" />
+      <!-- GitHub Contribution Graph -->
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Priyanshuosdbms&theme=github)
+
     </td>
   </tr>
   <tr>

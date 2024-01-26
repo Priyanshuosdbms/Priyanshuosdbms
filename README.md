@@ -5,6 +5,9 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms"/>
 
 <img alt="Top Languages" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark)
+
 <!--
 **Priyanshuosdbms/Priyanshuosdbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

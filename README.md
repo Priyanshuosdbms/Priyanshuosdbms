@@ -1,12 +1,45 @@
 ## Priyanshu Niranjan
 
 ## My stats
-
+<!--  
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms"/>
 
 <img alt="Top Languages" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact"/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark)
+
+-->
+
+<!-- GitHub Stats -->
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms" />
+    </td>
+    <td>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
+    </td>
+    <td>
+      <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Priyanshuosdbms" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyanshuosdbms&theme=github" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms" />
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **Priyanshuosdbms/Priyanshuosdbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

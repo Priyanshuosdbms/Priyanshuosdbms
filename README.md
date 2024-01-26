@@ -31,8 +31,6 @@
   <tr>
     <td colspan="2">
       <!-- GitHub Contribution Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Priyanshuosdbms&theme=github)
-
     </td>
   </tr>
   <tr>

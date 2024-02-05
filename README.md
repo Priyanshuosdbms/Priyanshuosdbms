@@ -25,21 +25,25 @@
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
     </td>
     <td>
-      <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Priyanshu_OS7" />
+      <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyanshuosdbms" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <!-- GitHub Contribution Graph -->
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms" />
     </td>
   </tr>
 </table>
 
+
+## Connect with Me
+
+Find me on social media and other platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/priyanshu-niranjan-osdbms//)
+[![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/PRIYANSHUNIRA10/)
+[![LeetCode](https://img.shields.io/badge/Personal%20Website-Visit%20Now-blue?style=for-the-badge&logo=world&logoColor=white)](https://https://leetcode.com/PriyanshuNiranjan//)
 
 <!--
 **Priyanshuosdbms/Priyanshuosdbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

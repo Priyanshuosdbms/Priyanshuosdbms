@@ -11,6 +11,7 @@
 -->
 
 <!-- GitHub Stats -->
+
 <table>
   <tr>
     <td>
@@ -40,6 +41,7 @@
 ## Connect with Me
 
 Find me on social media and other platforms:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-niranjan-osdbms/)
 [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PRIYANSHUNIRA10/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Now-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/PriyanshuNiranjan/)

@@ -26,7 +26,7 @@
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
     </td>
     <td>
-      <img alt="GitHub Contribution Graph" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms&show_icons=true&hide=prs,issues,contribs&hide_border=true&bg_color=ffffff00" />
+       <img alt="Total Commits Trophy" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms&title=Commit"/>
     </td>
   </tr>
   <tr>

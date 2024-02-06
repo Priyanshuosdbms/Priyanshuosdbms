@@ -12,26 +12,27 @@
 
 <!-- GitHub Stats -->
 
-<table>
+<table style="margin: 0 auto;">
   <tr>
-    <td>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms" />
-    </td>
     <td>
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact" />
     </td>
-  </tr>
-  <tr>
     <td>
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
     </td>
-    <td>
-       <img alt="Total Commits Trophy" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms&title=Commit"/>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms" />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <!-- GitHub Trophies -->
+    <td colspan="2" style="text-align: center;">
+      <img alt="Total Commits Trophy" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms&title=Commit" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms" />
     </td>
   </tr>

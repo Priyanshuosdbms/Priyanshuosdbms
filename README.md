@@ -20,17 +20,7 @@
     <td>
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img alt="Total Commits Trophy" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms&title=Commit" />
-    </td>
-  </tr>
+  
   <tr>
     <td colspan="2" style="text-align: center;">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms" />
@@ -61,4 +51,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+</tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img alt="Total Commits Trophy" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms&title=Commit" />
+    </td>
+  </tr>
 -->

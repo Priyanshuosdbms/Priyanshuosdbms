@@ -18,7 +18,7 @@
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact" />
     </td>
     <td>
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
+      <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms&show_icons=true&theme=dark" />
     </td>
   
   <tr>

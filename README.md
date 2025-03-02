@@ -12,15 +12,21 @@
 
 <!-- GitHub Stats -->
 
+<!-- GitHub Stats -->
 <table style="margin: 0 auto;">
   <tr>
     <td>
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact" />
     </td>
     <td>
-      <img alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms&show_icons=true&theme=dark" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms&show_icons=true&theme=dark" />
     </td>
-  
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
+    </td>
+  </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms" />

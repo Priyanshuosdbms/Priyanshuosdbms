@@ -13,27 +13,26 @@
 <!-- GitHub Stats -->
 
 <!-- GitHub Stats -->
-<table style="margin: 0 auto;">
+<table align="center">
   <tr>
     <td>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuosdbms&layout=compact" />
+      <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanshuosdbms&layout=compact&theme=dark" />
     </td>
     <td>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Priyanshuosdbms&show_icons=true&theme=dark" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Priyanshuosdbms&show_icons=true&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshuosdbms&theme=dark" />
+    <td colspan="2" align="center">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Priyanshuosdbms&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms" />
+    <td colspan="2" align="center">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Priyanshuosdbms&theme=dracula" />
     </td>
   </tr>
 </table>
-
 
 ## Connect with Me
 
